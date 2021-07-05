@@ -1,0 +1,241 @@
+2021-07-05 15:03:17,750-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:03:18,367-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:03:18,367-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:03:18,447-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:03:18,447-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:03:25,102-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:03:25] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:03:25,105-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:03:25] "[32mGET /todo/list HTTP/1.1[0m" 302 -
+2021-07-05 15:03:25,251-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:03:25] "GET /login HTTP/1.1" 200 -
+2021-07-05 15:03:25,864-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:03:25] "GET /static/js/echarts.min.js HTTP/1.1" 200 -
+2021-07-05 15:03:25,864-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:03:25] "GET /static/css/main.css HTTP/1.1" 200 -
+2021-07-05 15:03:26,070-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:03:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-07-05 15:04:03,813-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:04:04,435-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:04:04,445-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:04:04,513-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:04:04,514-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:04:07,302-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:04:07] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:04:07,306-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:04:07] "[32mGET /todo/list HTTP/1.1[0m" 302 -
+2021-07-05 15:04:07,358-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:04:07] "GET /login HTTP/1.1" 200 -
+2021-07-05 15:04:07,510-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:04:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-07-05 15:07:02,342-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:07:02,946-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:07:02,946-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:07:03,016-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:07:03,016-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:31:23,257-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:31:23,886-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:31:23,896-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:31:23,952-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:31:23,952-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:31:31,008-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:31] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:31:31,013-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:31] "[32mGET /todo/list HTTP/1.1[0m" 302 -
+2021-07-05 15:31:31,062-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:31] "GET /login HTTP/1.1" 200 -
+2021-07-05 15:31:31,195-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-07-05 15:31:46,026-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-07-05 15:31:46,030-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:31:46,250-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "[35m[1mGET /todo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:31:46,830-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "GET /todo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:31:46,831-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "GET /todo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:31:46,841-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "GET /todo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:31:46,887-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "GET /todo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:31:46,919-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:31:46] "GET /todo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:41:26,735-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:41:27,359-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:41:27,365-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:41:27,427-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:41:27,427-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:41:30,717-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:30] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:41:30,722-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:30] "[32mGET /memo/list HTTP/1.1[0m" 302 -
+2021-07-05 15:41:30,778-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:30] "GET /login HTTP/1.1" 200 -
+2021-07-05 15:41:30,930-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-07-05 15:41:44,806-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-07-05 15:41:44,809-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:44] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:41:45,056-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:45] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:41:45,644-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:45] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:41:45,645-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:45] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:41:45,656-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:45] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:41:45,711-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:45] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:41:45,730-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:41:45] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:42:32,391-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:42:32,994-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:42:33,004-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:42:33,064-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:42:33,064-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:42:35,369-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:42:35] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:42:35,457-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:42:35] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:42:36,092-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:42:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:42:36,093-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:42:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:42:36,103-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:42:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:42:36,180-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:42:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:44:50,531-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:50] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:44:50,536-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:50] "[32mGET /memo/list HTTP/1.1[0m" 302 -
+2021-07-05 15:44:50,577-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:50] "GET /login HTTP/1.1" 200 -
+2021-07-05 15:44:50,717-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-07-05 15:44:58,944-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-07-05 15:44:58,948-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:58] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:44:58,983-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:58] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:44:58,999-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:58] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:44:59,001-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:59] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:44:59,010-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:59] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:44:59,075-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:59] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:44:59,103-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:44:59] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:46:46,634-INFO _internal.py:225  * Detected change in 'E:\\Web_Flask\\controller\\memoController.py', reloading
+2021-07-05 15:46:46,734-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:46:47,392-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:46:47,398-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:46:47,476-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:46:47,476-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:50:31,939-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:31] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:50:32,536-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:32] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:50:32,536-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:32] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:50:32,547-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:32] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:50:32,568-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:32] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:50:32,587-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:32] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:50:36,401-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:36] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:50:36,418-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:50:36,418-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:50:36,429-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:50:36,448-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:50:36,471-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:50:36] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:51:21,359-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:51:21] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:51:21,374-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:51:21] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:51:21,374-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:51:21] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:51:21,384-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:51:21] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:51:21,402-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:51:21] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:51:21,422-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:51:21] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:54:46,047-INFO _internal.py:225  * Restarting with stat
+2021-07-05 15:54:46,657-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 15:54:46,657-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 15:54:46,727-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 15:54:46,727-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 15:54:56,367-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:54:56] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 15:54:56,448-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:54:56] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:54:57,082-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:54:57] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:54:57,082-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:54:57] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:54:57,093-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:54:57] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:54:57,166-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:54:57] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:58:37,434-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:58:37] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 15:58:37,449-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:58:37] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 15:58:37,450-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:58:37] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 15:58:37,462-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:58:37] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 15:58:37,481-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:58:37] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 15:58:37,503-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 15:58:37] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 16:01:24,185-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:01:24] "GET /memo/list HTTP/1.1" 200 -
+2021-07-05 16:01:43,043-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:01:43] "GET /memo/list HTTP/1.1" 200 -
+2021-07-05 16:01:59,381-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:01:59] "GET /memo/edit/6 HTTP/1.1" 200 -
+2021-07-05 16:02:02,756-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:02:02] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:04:26,267-INFO _internal.py:225  * Detected change in 'E:\\Web_Flask\\app\\forms.py', reloading
+2021-07-05 16:04:26,343-INFO _internal.py:225  * Restarting with stat
+2021-07-05 16:04:26,984-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 16:04:26,996-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 16:04:27,061-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 16:04:27,062-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 16:04:27,366-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:04:27] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:04:33,953-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:04:33] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:04:33,987-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:04:33] "GET /memo/list3 HTTP/1.1" 200 -
+2021-07-05 16:04:41,880-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:04:41] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 16:04:41,901-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:04:41] "GET /memo/list HTTP/1.1" 200 -
+2021-07-05 16:05:49,969-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:05:49] "GET /memo/list/2/ HTTP/1.1" 200 -
+2021-07-05 16:05:51,872-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:05:51] "GET /memo/list/1/ HTTP/1.1" 200 -
+2021-07-05 16:05:53,848-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:05:53] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:05:56,056-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:05:56] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:05:56,069-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:05:56] "GET /memo/list3 HTTP/1.1" 200 -
+2021-07-05 16:05:57,263-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:05:57] "GET /memo/list/2/ HTTP/1.1" 200 -
+2021-07-05 16:05:58,759-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:05:58] "GET /memo/list/1/ HTTP/1.1" 200 -
+2021-07-05 16:06:00,751-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:00] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:06:02,514-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:02] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:06:02,530-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:02] "GET /memo/list3 HTTP/1.1" 200 -
+2021-07-05 16:06:05,426-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:05] "GET /memo/list/2/ HTTP/1.1" 200 -
+2021-07-05 16:06:07,038-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:07] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:06:08,715-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:08] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:06:08,725-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:08] "GET /memo/list3 HTTP/1.1" 200 -
+2021-07-05 16:06:44,304-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:44] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:06:46,140-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:46] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:06:46,160-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:46] "GET /memo/list3 HTTP/1.1" 200 -
+2021-07-05 16:06:48,030-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:48] "GET /memo/list/2/ HTTP/1.1" 200 -
+2021-07-05 16:06:50,280-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:50] "GET /memo/list/1/ HTTP/1.1" 200 -
+2021-07-05 16:06:55,832-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:55] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:06:58,488-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:58] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:06:58,499-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:06:58] "GET /memo/list2 HTTP/1.1" 200 -
+2021-07-05 16:07:01,776-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:07:01] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:07:09,269-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:07:09] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:07:09,276-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:07:09] "GET /memo/list3 HTTP/1.1" 200 -
+2021-07-05 16:07:13,829-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:07:13] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 16:07:19,877-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:07:19] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 16:07:19,886-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:07:19] "GET /memo/list2 HTTP/1.1" 200 -
+2021-07-05 16:45:06,432-INFO _internal.py:225  * Restarting with stat
+2021-07-05 16:45:07,062-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 16:45:07,069-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 16:45:07,137-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 16:45:07,138-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 16:45:10,593-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:10] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 16:45:10,598-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:10] "[32mGET /memo/list HTTP/1.1[0m" 302 -
+2021-07-05 16:45:10,652-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:10] "GET /login HTTP/1.1" 200 -
+2021-07-05 16:45:10,805-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-07-05 16:45:11,937-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:11] "GET /register HTTP/1.1" 200 -
+2021-07-05 16:45:51,019-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:51] "POST /register HTTP/1.1" 200 -
+2021-07-05 16:45:59,129-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:59] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-07-05 16:45:59,134-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:45:59] "GET /login HTTP/1.1" 200 -
+2021-07-05 16:46:15,349-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-07-05 16:46:15,353-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:15] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 16:46:15,406-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:15] "[35m[1mGET /memo/list HTTP/1.1[0m" 500 -
+2021-07-05 16:46:16,021-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:16] "GET /memo/list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-05 16:46:16,022-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:16] "GET /memo/list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-05 16:46:16,030-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:16] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 16:46:16,095-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:16] "GET /memo/list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-05 16:46:16,122-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:46:16] "GET /memo/list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-05 16:50:38,067-INFO _internal.py:225  * Detected change in 'E:\\Web_Flask\\models\\memoModel.py', reloading
+2021-07-05 16:50:38,139-INFO _internal.py:225  * Restarting with stat
+2021-07-05 16:55:14,442-INFO _internal.py:225  * Restarting with stat
+2021-07-05 16:55:15,063-WARNING _internal.py:225  * Debugger is active!
+2021-07-05 16:55:15,069-INFO _internal.py:225  * Debugger PIN: 213-185-563
+2021-07-05 16:55:15,132-WARNING _internal.py:225  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-05 16:55:15,133-INFO _internal.py:225  * Running on http://192.168.1.111:8080/ (Press CTRL+C to quit)
+2021-07-05 16:55:17,888-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:17] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 16:55:17,940-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:17] "GET /memo/list HTTP/1.1" 200 -
+2021-07-05 16:55:30,012-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:30] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-07-05 16:55:30,055-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:30] "GET /login HTTP/1.1" 200 -
+2021-07-05 16:55:31,104-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:31] "GET /register HTTP/1.1" 200 -
+2021-07-05 16:55:45,589-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:45] "POST /register HTTP/1.1" 200 -
+2021-07-05 16:55:58,525-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:58] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-07-05 16:55:58,530-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:55:58] "GET /login HTTP/1.1" 200 -
+2021-07-05 16:56:00,158-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:56:00] "GET /register HTTP/1.1" 200 -
+2021-07-05 16:56:17,270-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:56:17] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-07-05 16:56:17,276-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:56:17] "GET /login HTTP/1.1" 200 -
+2021-07-05 16:56:18,525-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:56:18] "GET /register HTTP/1.1" 200 -
+2021-07-05 16:56:35,777-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:56:35] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-07-05 16:56:35,783-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:56:35] "GET /login HTTP/1.1" 200 -
+2021-07-05 16:56:38,548-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:56:38] "GET /register HTTP/1.1" 200 -
+2021-07-05 16:57:03,771-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:57:03] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-07-05 16:57:03,776-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 16:57:03] "GET /login HTTP/1.1" 200 -
+2021-07-05 17:00:14,148-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:00:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-07-05 17:00:14,151-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:00:14] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 17:00:14,165-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:00:14] "GET /memo/list HTTP/1.1" 200 -
+2021-07-05 17:01:28,803-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:01:28] "GET /memo/list HTTP/1.1" 200 -
+2021-07-05 17:01:30,787-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:01:30] "GET /memo/list/2/ HTTP/1.1" 200 -
+2021-07-05 17:01:31,953-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:01:31] "GET /memo/list/1/ HTTP/1.1" 200 -
+2021-07-05 17:02:11,194-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:11] "GET /memo/list/1/ HTTP/1.1" 200 -
+2021-07-05 17:02:13,019-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:13] "GET /memo/list/2/ HTTP/1.1" 200 -
+2021-07-05 17:02:14,190-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:14] "GET /memo/list/1/ HTTP/1.1" 200 -
+2021-07-05 17:02:16,625-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:16] "GET /memo/list/2/ HTTP/1.1" 200 -
+2021-07-05 17:02:23,654-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:23] "GET /memo/add HTTP/1.1" 200 -
+2021-07-05 17:02:32,261-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:32] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 17:02:38,191-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:38] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 17:02:38,212-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:38] "GET /memo/list2 HTTP/1.1" 200 -
+2021-07-05 17:02:40,618-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:40] "[32mGET / HTTP/1.1[0m" 302 -
+2021-07-05 17:02:40,633-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:40] "GET /memo/list HTTP/1.1" 200 -
+2021-07-05 17:02:41,468-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:02:41] "GET /memo/search HTTP/1.1" 200 -
+2021-07-05 17:03:05,774-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:03:05] "[32mPOST /memo/search HTTP/1.1[0m" 302 -
+2021-07-05 17:03:05,787-INFO _internal.py:225 192.168.1.111 - - [05/Jul/2021 17:03:05] "GET /memo/list3 HTTP/1.1" 200 -
